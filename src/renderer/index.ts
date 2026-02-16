@@ -52,7 +52,7 @@ const DEFAULT_CONFIG: AppConfig = {
   },
   ui: {
     commandPanelWidth: 220,
-    animationAreaHeight: 120,
+    animationAreaHeight: 220,
     explanationPanelHeight: 60,
     terminalFontSize: 14,
     terminalFontFamily: 'monospace',

@@ -57,7 +57,7 @@
   --color-error: var(--color-red);
 
   /* Layout dimensions */
-  --animation-area-height: 120px;
+  --animation-area-height: 220px;
   --command-panel-width: 220px;
   --explanation-panel-height: 60px;
 
